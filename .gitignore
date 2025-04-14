@@ -1,3 +1,18 @@
 *.bin
 __pycache__
 testdata
+.idea
+
+# 压缩包
+*.tgz
+*.zip
+
+# cache
+.cache
+
+*.pdf
+*.doc
+*.docx
+*.csv
+*.xls
+*.xlsx
